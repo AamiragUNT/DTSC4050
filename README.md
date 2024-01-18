@@ -1,2 +1,2 @@
 # DTSC4050
-Repository for class
+Repository for class Data Science DTSC4050
